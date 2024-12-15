@@ -3,12 +3,11 @@
 
 
 
-<h1 align="center">Hi 👋, I'm sungmin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">안녕하세요!! 반갑습니다!!</h1>
 
-- 🌱 I’m currently learning **React**
+<h2>현재 배우고 있는것. React</h2>
 
-- 📫 How to reach me **sungmin48601@gmail.com**
+- 📫 연락 수단 **sungmin48601@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
