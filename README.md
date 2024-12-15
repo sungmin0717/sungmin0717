@@ -5,7 +5,7 @@
 
 <h1 align="center">안녕하세요!! 반갑습니다!!</h1>
 
-<h2>현재 배우고 있는것. React</h2>
+<h2 align="center">현재 배우고 있는것. React</h2>
 
 - 📫 연락 수단 **sungmin48601@gmail.com**
 
