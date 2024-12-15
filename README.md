@@ -1,4 +1,7 @@
-## Hi there 👋
+
+<img src="https://github.com/user-attachments/assets/44308f25-2597-4382-9de9-ca7327e2cab2" width="100%">
+
+
 
 <h1 align="center">Hi 👋, I'm sungmin</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
