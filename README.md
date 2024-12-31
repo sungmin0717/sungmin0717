@@ -7,7 +7,7 @@
 
 <h2 align="center" >현재 배우고 있는것. React</h2>
 
-- 📫 연락 수단 **sungmin48601@gmail.com**
+- 📫 연락 수단 **ksyoon07170@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
