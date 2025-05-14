@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">안녕하세요!! 반갑습니다!!</h1>
+<h1 align="center">풀스택 개발자로 성장하고있는 김성민 입니다.</h1>
 
 <h2 align="center" >현재 배우고 있는것. Python</h2>
 
