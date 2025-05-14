@@ -7,9 +7,9 @@
 
 <h2 align="center" >현재 배우고 있는것. Python</h2>
 
+<h3 align="left">Connect with me:</h3>
 - 📫 연락 수단 **ksyoon07170@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
