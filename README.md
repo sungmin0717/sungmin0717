@@ -5,7 +5,7 @@
 
 <h1 align="center">풀스택 개발자로 성장하고있는 김성민 입니다.</h1>
 
-<h2 align="center" >현재 배우고 있는것. Python</h2>
+
 
 <h3 align="left">Connect with me:</h3>
 - 📫 연락 수단 **ksyoon07170@gmail.com**
